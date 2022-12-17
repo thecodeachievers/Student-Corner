@@ -1,0 +1,74 @@
+body{
+     background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEGybQ-qzl1nB24quVYa6YUYDr-tFYr2uyTA&usqp=CAU');
+     align-items:center;
+     min-height:90vh;margin-bottom: -100px;}
+     #headi2{
+         text-align: center;margin-bottom: -5000px;
+     }
+     
+     .all{
+     justify-content: center; display: flex; font-family:Arial, Helvetica, sans-serif;
+     text-align: center;margin-top: 50px;}
+     
+     .card{
+     position:relative;
+     width:200px; border-radius:0px 10px 10px 0px; box-shadow:30px 48px 48px rgba(0,0,0,0.2);
+     height:300px;
+     background: #edb829;
+     justify-content: flex-start; display: flex; font-family:Arial, Helvetica, sans-serif;
+     display: flex; perspective: 190em;
+     margin:25px;}
+     
+     .cover{
+     position:absolute;
+     top:0px;
+     left:0px;
+     height:100%;
+     transform-style: preserve-3d;
+     width:100%; background: dodgerblue; transform-origin: left; border-radius:0px 10px 10px 0px; font-weight: bold;
+     transition: transform 1s;
+     font-size:30px;
+     margin-bottom: 0px;}
+     
+     .card:hover .cover{
+     transform:rotateY(-120deg);}
+     
+     .coverFront,.coverFront1,.coverFront2,.coverFront3,.coverFront4,.coverFront5, .coverBack{ position:absolute; width:100%; height:100%; justify-content: center; align-items:center; display: flex; }
+     
+     .coverFront1{ background-image: url("https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566408549l/52257411._SX0_SY0_.jpg"); text-align: center; border-radius: 10px 10px 10px 0px; color:#333;
+     background-size: 100% 100%;}
+     
+     .coverFront2{ background-image: url("https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/41eOCtPrBeL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg"); text-align: center; border-radius: 10px 10px 10px 0px; color:#333;
+     background-size: 100% 100%;}
+     
+     .coverFront3{ background-image: url("https://m.media-amazon.com/images/I/71S-p+5smhL.jpg"); text-align: center; border-radius: 10px 10px 10px 0px; color:#333;
+     background-size: 100% 100%;}
+     
+     .coverFront4{ background-image: url("https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/512ySvqMOgL._SX378_BO1,204,203,200_.jpg"); text-align: center; border-radius: 10px 10px 10px 0px; color:#333;
+     background-size: 100% 100%;}
+     
+     .coverFront5{ background-image: url("http://www.printsasiaimages.com/221637374/180908095338b9Ld343p.jpg"); text-align: center; border-radius: 10px 10px 10px 0px; color:#333;
+     background-size: 100% 100%;}
+     
+     .coverBack{
+     background: rgb(253, 131, 194); border-radius: 10px 0px 0px 10px; transform:rotateY(180deg);}
+     
+     .coverBack2{
+     border-radius: 10px 0px 0px 10px; transform:rotateY(180deg);}
+     
+     .sh_img{
+     width:100px;}
+     
+     .sh_btn{
+     border:0px;width: 100%;
+     background: rgb(45, 147, 249); border-radius: 50px; padding:10px 20px; color:#fff; margin-top:14px;}
+     
+     #headi{
+     text-align: center;}
+     
+     h1 {font-size: 80px;background-color: #fff;
+         border-style: solid;border-width: 15px;margin-left: 300px;margin-right: 300px;margin-bottom: 0px;margin-top: 30px;}
+        
+     h2 {margin-right: 100px;margin-left: 100px;}
+     h3 {font-size: larger;margin-top: -15px;}
+     p  {margin-top: 90px;}
