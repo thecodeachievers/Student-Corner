@@ -73,3 +73,18 @@ body{
      h2 {margin-right: 100px;margin-left: 100px;}
      h3 {font-size: larger;margin-top: -15px;}
      p  {margin-top: 90px;}
+
+     @media only screen and (max-width:400px) {
+        .card{
+       width: 75%; 
+       height:75%}
+       p{margin: auto;}
+       h1{margin: auto;}
+     }
+     @media only screen and (max-width:800px) {
+        .card{
+       width: 75%; 
+       height:75%}
+       p{margin: auto;}
+       h1{margin: auto;}
+       #headi{margin: auto;}
