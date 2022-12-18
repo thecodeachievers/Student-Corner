@@ -1,7 +1,10 @@
 body{
      background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEGybQ-qzl1nB24quVYa6YUYDr-tFYr2uyTA&usqp=CAU');
      align-items:center;
-     min-height:90vh;margin-bottom: -100px;}
+     min-height:90vh;margin-bottom: -100px;width: 90%;
+    min-width: 500px;
+    margin: auto;}
+
      #headi2{
          text-align: center;margin-bottom: -5000px;
      }
