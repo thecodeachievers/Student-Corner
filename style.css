@@ -1,5 +1,5 @@
 body{
-     background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEGybQ-qzl1nB24quVYa6YUYDr-tFYr2uyTA&usqp=CAU');
+     background-image: url('https://img.freepik.com/free-vector/hand-painted-watercolor-abstract-watercolor-background_23-2149001486.jpg?w=1800&t=st=1672482655~exp=1672483255~hmac=46c12c33bb579380649b3136dbd84a405d8663cb06252b8c2a0774fc2191df61');
      align-items:center;
      min-height:90vh;margin-bottom: -100px;}
      #headi2{
@@ -38,7 +38,7 @@ body{
      .coverFront1{ background-image: url("https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566408549l/52257411._SX0_SY0_.jpg"); text-align: center; border-radius: 10px 10px 10px 0px; color:#333;
      background-size: 100% 100%;}
      
-     .coverFront2{ background-image: url("https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/41eOCtPrBeL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg"); text-align: center; border-radius: 10px 10px 10px 0px; color:#333;
+     .coverFront2{ background-image: url("https://m.media-amazon.com/images/I/71K-Yc+FVoL.jpg"); text-align: center; border-radius: 10px 10px 10px 0px; color:#333;
      background-size: 100% 100%;}
      
      .coverFront3{ background-image: url("https://m.media-amazon.com/images/I/71S-p+5smhL.jpg"); text-align: center; border-radius: 10px 10px 10px 0px; color:#333;
